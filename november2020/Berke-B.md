@@ -1,0 +1,5 @@
+- Name: Berke Batman
+- Likes: guitar, music, cooking, sports 
+- Dislikes: insects
+- Favourite Quote: just to do it
+- GitHub Profile URL: https://github.com/berkebatman
