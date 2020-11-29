@@ -2,4 +2,4 @@
 - Likes: Coding
 - Dislikes: Stupidity
 - Favourite Quote: The supreme art of wat is to subdue the enemy without fighting - Sun Tzu
-- GitHub Profile URL: https://
+- GitHub Profile URL: https://github.com/ratalay
