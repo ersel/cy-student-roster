@@ -1,5 +1,5 @@
 - Name: Berke Batman
 - Likes: guitar, music, cooking, sports 
 - Dislikes: insects
-- Favourite Quote: just to do it
+- Favourite Quote: The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.
 - GitHub Profile URL: https://github.com/berkebatman
