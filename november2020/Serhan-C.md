@@ -1,0 +1,5 @@
+- Name: Serhan Candas
+- Likes: playing guitar, netflix, eating unhealthy.
+- Dislikes: turkish coffee, tequila, living in Cyprus.
+- Favourite Quote: I'm freaking done with this country!
+- GitHub Profile URL: https://github.com/serhancandas
