@@ -1,0 +1,5 @@
+- Name: Ahmet Misirli
+- Likes: Italian and Asian cuisines, good food, gaming and singing
+- Dislikes: Disrespect, Ignorance and Stupidity
+- Favourite Quote: "Happiness can be found even in the darkest of times, if one only remembers to turn on the light." - Albus Dumbledoor
+- GitHub Profile URL: https://github.com/AhmetMustafa
