@@ -1,0 +1,5 @@
+- Name:Nemide Eray
+- Likes: swimming,animals
+- Dislikes: war
+- Favourite Quote: Always give your best never worry for results.
+- GitHub Profile URL: https://github.com/nemideeray
