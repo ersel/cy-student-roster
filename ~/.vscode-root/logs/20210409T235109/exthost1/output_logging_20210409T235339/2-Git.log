@@ -47,3 +47,19 @@ Warning: Failed to watch ref '/home/root1905/Desktop/projects/cy-student-roster/
 > git remote --verbose
 Warning: Failed to watch ref '/home/root1905/Desktop/projects/cy-student-roster/.git/refs/remotes/origin/master', is most likely packed.
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/root1905/Desktop/projects/cy-student-roster/example-cohort/cem-demo.md
+> git symbolic-ref --short HEAD
+> git cat-file -s 73eca3811db012f00b6eb9b1f4b70764e9451479
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git show --textconv :example-cohort/cem-demo.md
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/root1905/Desktop/projects/cy-student-roster/example-cohort/cem-demo.md

@@ -3,6 +3,9 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/root1905/Desktop/projects/cy-student-roster"
+            },
+            {
                 "folderUri": "file:///home/root1905/Desktop/projects/cy-student-roster/example-cohort"
             }
         ]
@@ -51,7 +54,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/root1905/Desktop/projects/cy-student-roster/example-cohort",
+                                        "fsPath": "/home/root1905/Desktop/projects/cy-student-roster",
+                                        "external": "file:///home/root1905/Desktop/projects/cy-student-roster",
+                                        "path": "/home/root1905/Desktop/projects/cy-student-roster",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/root1905/Desktop/projects/cy-student-roster"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/root1905/Desktop/projects/cy-student-roster/example-cohort",
                                         "path": "/home/root1905/Desktop/projects/cy-student-roster/example-cohort",
                                         "scheme": "file"
@@ -1452,8 +1466,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/root1905/Desktop/projects/cy-student-roster/example-cohort",
-            "backupPath": "/home/root1905/Desktop/projects/cy-student-roster/~/.vscode-root/Backups/9cb236d13db0f904e5dc624d817a20f1",
+            "folder": "file:///home/root1905/Desktop/projects/cy-student-roster",
+            "backupPath": "/home/root1905/Desktop/projects/cy-student-roster/~/.vscode-root/Backups/403bacf88849d35d3c49f70ef164f11c",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -1464,5 +1478,5 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/root1905/Desktop/projects/cy-student-roster"
+    "pickerWorkingDir": "/home/root1905/Desktop/projects"
 }
