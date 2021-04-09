@@ -1,0 +1,5 @@
+- Name:SwordFish7249
+- Likes: Cyber Security, Cars, Football, Basketball, chess titans, listen to music, watching the action movies, etc.
+- Dislikes: Racists, The reactionaries, slow music, handball, volleyball, etc.
+- Favourite Quote: Cyber-Security is much more than a matter of IT ― Stephane Nappo
+- GitHub Profile URL: https://github.com/SwordFish7249
