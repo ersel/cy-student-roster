@@ -1,0 +1,5 @@
+- Name:Erhan Ersoy
+- Likes: Music
+- Dislikes: Dishonesty
+- Favourite Quote: 1. “The future belongs to those who believe in the beauty of their dreams.” Eleanor Roosevelt
+- GitHub Profile URL: https://github.com/erhan11
